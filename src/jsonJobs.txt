@@ -1,0 +1,182 @@
+[
+  {
+    Nombre: 'Z80_mm_24',
+    Plataforma: 'ERP',
+    Encargado: 'PEDRO',
+    Telefono: 66667777,
+    Correo: 'p@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_25',
+    Plataforma: 'ERP',
+    Encargado: 'JANET',
+    Telefono: 66667778,
+    Correo: 'j@grupodinosol.es',
+    Continuidad: '1 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_26',
+    Plataforma: 'ERP',
+    Encargado: 'ANA',
+    Telefono: 66667779,
+    Correo: 'a@grupodinosol.es',
+    Continuidad: 'Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_27',
+    Plataforma: 'ERP',
+    Encargado: 'OLEGARIO',
+    Telefono: 66667770,
+    Correo: 'o@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_28',
+    Plataforma: 'ERP',
+    Encargado: 'PEDRO',
+    Telefono: 66667777,
+    Correo: 'p@grupodinosol.es',
+    Continuidad: '2 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_29',
+    Plataforma: 'ERP',
+    Encargado: 'JANET',
+    Telefono: 66667778,
+    Correo: 'j@grupodinosol.es',
+    Continuidad: 'Sábado',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_30',
+    Plataforma: 'ERP',
+    Encargado: 'ANA',
+    Telefono: 66667779,
+    Correo: 'a@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_31',
+    Plataforma: 'ERP',
+    Encargado: 'OLEGARIO',
+    Telefono: 66667770,
+    Correo: 'o@grupodinosol.es',
+    Continuidad: '3 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_32',
+    Plataforma: 'ERP',
+    Encargado: 'PEDRO',
+    Telefono: 66667777,
+    Correo: 'p@grupodinosol.es',
+    Continuidad: 'Domingo',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_33',
+    Plataforma: 'ERP',
+    Encargado: 'JANET',
+    Telefono: 66667778,
+    Correo: 'j@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_34',
+    Plataforma: 'ERP',
+    Encargado: 'ANA',
+    Telefono: 66667779,
+    Correo: 'a@grupodinosol.es',
+    Continuidad: '4 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_35',
+    Plataforma: 'ERP',
+    Encargado: 'OLEGARIO',
+    Telefono: 66667770,
+    Correo: 'o@grupodinosol.es',
+    Continuidad: 'Lunes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_36',
+    Plataforma: 'ERP',
+    Encargado: 'PEDRO',
+    Telefono: 66667777,
+    Correo: 'p@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_37',
+    Plataforma: 'ERP',
+    Encargado: 'JANET',
+    Telefono: 66667778,
+    Correo: 'j@grupodinosol.es',
+    Continuidad: '5 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_38',
+    Plataforma: 'ERP',
+    Encargado: 'ANA',
+    Telefono: 66667779,
+    Correo: 'a@grupodinosol.es',
+    Continuidad: 'Martes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_39',
+    Plataforma: 'ERP',
+    Encargado: 'OLEGARIO',
+    Telefono: 66667770,
+    Correo: 'o@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_40',
+    Plataforma: 'ERP',
+    Encargado: 'PEDRO',
+    Telefono: 66667777,
+    Correo: 'p@grupodinosol.es',
+    Continuidad: '6 de cada mes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_41',
+    Plataforma: 'ERP',
+    Encargado: 'JANET',
+    Telefono: 66667778,
+    Correo: 'j@grupodinosol.es',
+    Continuidad: 'Miércoles',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_42',
+    Plataforma: 'ERP',
+    Encargado: 'ANA',
+    Telefono: 66667779,
+    Correo: 'a@grupodinosol.es',
+    Continuidad: 'Lunes a Viernes',
+    Criticidad: 'ALTA'
+  },
+  {
+    Nombre: 'Z80_mm_43',
+    Plataforma: 'ERP',
+    Encargado: 'OLEGARIO',
+    Telefono: 66667770,
+    Correo: 'o@grupodinosol.es',
+    Continuidad: '7 de cada mes',
+    Criticidad: 'ALTA'
+  }
+]
